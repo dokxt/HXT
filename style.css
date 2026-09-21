@@ -1,5 +1,5 @@
 body {
-  background-color: #1e1e2e;
+  background-color: #191919;
   color: white;
   font-family: Arial, sans-serif;
   text-align: center;
@@ -7,12 +7,12 @@ body {
 }
 
 h1 {
-  color: #89b4fa;
+  color: #D4D4D4;
 }
 
 button {
-  background-color: #f38ba8;
-  color: white;
+  background-color: #2E2724;
+  color: #A27763;
   padding: 12px 30px;
   border: none;
   border-radius: 10px;
@@ -21,5 +21,5 @@ button {
 }
 
 button:hover {
-  background-color: #eba0ac;
+  background-color: #2E2724;
 }
