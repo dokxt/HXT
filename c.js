@@ -9,5 +9,5 @@ const message = document.getElementById("message");
 
 // When the button is clicked, do something:
 button.addEventListener("click", () => {
-  message.textContent = sayHello("world") + " Time: " + new Date().toLocaleTimeString();
+  message.textContent = sayHello("HORA DE CALDEAR") + " Time: " + new Date().toLocaleTimeString();
 });
